@@ -37,7 +37,7 @@ function Hero() {
           <br />
           Ren
         </h1>
-        <h2>aspiring software engineer</h2>
+        <h2>Software Developer</h2>
         <span>
           <a href="https://github.com/andyr3n" target="_blank">
             <img src={githubIcon} alt="Github icon" />
