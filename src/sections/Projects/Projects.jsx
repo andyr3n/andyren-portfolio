@@ -12,10 +12,10 @@ function Projects() {
                 <h3>Broke-No-More</h3>
                 <p>Android app designed to help students manage their finances with ease!</p>
             </a>
-            <a href="https://github.com/andyr3n/DDMap" target="_blank">
+            <a href="https://github.com/andyr3n/Spots-Map" target="_blank">
                 <img className="hover" src={ddmap} alt="DDMap logo" />
-                <h3>DDMap</h3>
-                <p>Helps delivery drivers share location markers and ratings.</p>
+                <h3>Spots Map</h3>
+                <p>Interactive Location Sharing</p>
             </a>
         </div>
     </section>
