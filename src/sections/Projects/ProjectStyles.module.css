@@ -2,12 +2,14 @@
   display: flex;
   flex-direction: column;
   text-align: center;
+  max-width: 900px;
 
   img {
     max-width: 250px;
     align-self: center;
     background-color: var(--project-card-bg);
     border-radius: 20px;
+    margin-top: 50px;
   }
 
   a {
